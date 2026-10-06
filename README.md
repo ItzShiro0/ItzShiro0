@@ -13,7 +13,7 @@ I learn by building and shipping. TinyQuest taught me what works and what doesn'
 *   **Tools & Security:** Git, DOTween, JSON (Custom Save Systems), Memory Obfuscation (XOR)
 
 ### 🚀 Featured Project
-*   **TinyQuest (Demo-beta):** A 2D roguelite built from scratch over 9 months. Features modular room generation, a custom JSON save system with file integrity checks, and modular enemy AI. 
+*   **TinyQuest (Demo-beta):** A 2D roguelite built from scratch over 9 months. Features modular room generation, a custom JSON save system with file integrity checks, and enemy AI. 
 🎮 [Play the build on itch.io](https://itz-shiro0.itch.io/tinyquest-web)
 
 ---
@@ -38,7 +38,7 @@ I learn by building and shipping. TinyQuest taught me what works and what doesn'
 *   **Інструменти та безпека:** Git, DOTween, JSON (кастомні збереження), обфускація пам'яті (XOR)
 
 ### 🚀 Головний проєкт
-*   **TinyQuest (Demo-beta):** 2D рогалик, розроблений з нуля за 9 місяців. Має модульну генерацію кімнат, кастомну систему збережень (JSON) із перевіркою цілісності та модульний штучний інтелект ворогів. 
+*   **TinyQuest (Demo-beta):** 2D рогалик, розроблений з нуля за 9 місяців. Має модульну генерацію кімнат, кастомну систему збережень (JSON) із перевіркою цілісності та штучний інтелект ворогів. 
 🎮 [Зіграти в білд на itch.io](https://itz-shiro0.itch.io/tinyquest-web)
 
 </details>
