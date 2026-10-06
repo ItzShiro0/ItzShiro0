@@ -23,7 +23,7 @@ I focus on writing clean, modular code, building scalable game architecture, and
   
   <br>
   
-### Привіт, я Шіро 👋
+### Привіт, я Shiro0 👋
 **Junior Unity Developer | 2D Games, Gameplay & Optimization**
 
 Я фокусуюся на написанні чистого, модульного коду, побудові масштабованої архітектури та оптимізації продуктивності. Мені подобається вирішувати глибокі технічні задачі, а не просто розставляти префаби на сцені.
