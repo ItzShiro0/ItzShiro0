@@ -5,7 +5,7 @@ I focus on writing clean, modular code and building solid game logic. I prefer u
 
 ### 🛠 Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=unity,cs,git" />
+  <img src="https://skillicons.dev/icons?i=unity,cs,git,linux" />
 </p>
 
 *   **Game Engine:** Unity (2D, URP, UI, Profiler)
@@ -30,7 +30,7 @@ I focus on writing clean, modular code and building solid game logic. I prefer u
 
 ### 🛠 Стек технологій
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=unity,cs,git" />
+  <img src="https://skillicons.dev/icons?i=unity,cs,git,linux" />
 </p>
 
 *   **Рушій:** Unity (2D, URP, UI, Profiler)
