@@ -1,7 +1,7 @@
 ### Hi there, I'm Shiro 👋
 **Junior Unity Developer | 2D Games, Gameplay & Optimization**
 
-I focus on writing clean, modular code and building solid game logic. I prefer understanding how things work under the hood rather than just throwing prefabs on a scene.
+I learn by building and shipping. TinyQuest taught me what works and what doesn't, and I'm applying that to my next projects.
 
 ### 🛠 Tech Stack
 <p align="left">
@@ -26,7 +26,7 @@ I focus on writing clean, modular code and building solid game logic. I prefer u
 ### Привіт, я Shiro0 👋
 **Junior Unity Developer | 2D Games, Gameplay & Optimization**
 
-Я зосереджуюся на написанні чіткого, модульного коду та створенні надійної ігрової логіки. Я вважаю за краще розуміти, як все працює «під капотом», а не просто розміщувати префаби на сцені.
+Вчусь, створюючи й випускаючи ігри. TinyQuest показав мені, що працює, а що ні, і тепер я застосовую це в наступних проєктах.
 
 ### 🛠 Стек технологій
 <p align="left">
