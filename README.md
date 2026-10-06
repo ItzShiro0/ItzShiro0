@@ -1,7 +1,7 @@
 ### Hi there, I'm Shiro 👋
 **Junior Unity Developer | 2D Games, Gameplay & Optimization**
 
-I focus on writing clean, modular code, building scalable game architecture, and optimizing performance. I enjoy solving deep technical problems rather than just throwing prefabs on a scene.
+I focus on writing clean, modular code and building solid game logic. I prefer understanding how things work under the hood rather than just throwing prefabs on a scene.
 
 ### 🛠 Tech Stack
 <p align="left">
@@ -26,7 +26,7 @@ I focus on writing clean, modular code, building scalable game architecture, and
 ### Привіт, я Shiro0 👋
 **Junior Unity Developer | 2D Games, Gameplay & Optimization**
 
-Я фокусуюся на написанні чистого, модульного коду, побудові масштабованої архітектури та оптимізації продуктивності. Мені подобається вирішувати глибокі технічні задачі, а не просто розставляти префаби на сцені.
+Я зосереджуюся на написанні чіткого, модульного коду та створенні надійної ігрової логіки. Я вважаю за краще розуміти, як все працює «під капотом», а не просто розміщувати префаби на сцені.
 
 ### 🛠 Стек технологій
 <p align="left">
