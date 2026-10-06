@@ -1,16 +1,15 @@
-## Hi there 👋
+[🇺🇦 Українською](README-ua.md) | 🇬🇧 English
 
-<!--
-**ItzShiro0/ItzShiro0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there, I'm Shiro 👋
+**Junior Unity Developer | 2D Games, Gameplay & Optimization**
 
-Here are some ideas to get you started:
+I focus on writing clean, modular code, building scalable game architecture, and optimizing performance. I enjoy solving deep technical problems rather than just throwing prefabs on a scene.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=unity,cs,git" />
+</p>
+
+*   **Game Engine:** Unity (2D, URP, UI, Profiler)
+*   **Architecture & Patterns:** C# OOP, Event-driven architecture (Actions/Events), Object Pooling
+*   **Tools & Security:** Git, DOTween, JSON (Custom Save Systems), Memory Obfuscation (XOR)
